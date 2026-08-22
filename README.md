@@ -36,9 +36,3 @@ He/Him
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asif2070md&show_icons=true&theme=radical" alt="Asif's GitHub Stats" />
-</p>
-
