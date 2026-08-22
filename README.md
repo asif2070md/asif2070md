@@ -2,11 +2,10 @@
 <h3 align="center"> AI Agent Developer | AI Automation Specialist  |</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+Automations+with+Make.com+%26+n8n;Chatbot+%26+RAG+Pipeline+Developer;Freelancer+from+Dhaka%2C+Bangladesh;Future+Aerospace+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+Automations+with+Make.com+%26+n8n;Chatbot+%26+RAG+Pipeline+Developer;" alt="Typing SVG" />
 </p>
 
 ---
-
 ### 👨‍💻 What I do
 I design and build AI-powered automation systems for businesses — chatbots, workflow automations, and integrations that connect apps, APIs, and LLMs together so tasks run without manual work. This covers things like WhatsApp/Telegram/Messenger bots, CRM & booking automations, and RAG-based AI agents.
 
